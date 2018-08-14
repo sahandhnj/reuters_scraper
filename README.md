@@ -1,3 +1,3 @@
 # reuters_scraper
 
-scrape news article from reuters archive
+scrape news articles from reuters archive
